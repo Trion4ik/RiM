@@ -1,0 +1,23 @@
+Статистика 26/11/2013(Work in SET):
+Старт 0:35
+Стоп  9:07
+Parse time 8:32; 512 minute; 30720 second
+Unique Link: 88308 in second 2,87
+Parse links: 5734 (5,35 second per one)
+last link 5734 Parse: http://work.ua/jobs/by-company/69905/
+
+Статистика 26/11/2013(Work in LinkedList):
+Старт 9:16
+Стоп  
+Parse time    189 min
+Unique Link:  71061 in second 6,26
+Parse links:  2427 (4,67 second per one)
+last link     2427 Parse: http://work.ua/jobs/by-company/279202/
+
+Статистика 26/11/2013(Work in LinkedList):
+Старт 17:13
+Стоп
+Parse time    189 min
+Unique Link:  71061 in second 6,26
+Parse links:  2427 (4,67 second per one)
+last link     2427 Parse: http://work.ua/jobs/by-company/279202/

@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RIM:war exploded">
+    <output-path>$PROJECT_DIR$/target/rim</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="RIM/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RIM" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.26" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-catalina:7.0.41" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-servlet-api:7.0.41" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:7.0.41" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-annotations-api:7.0.41" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-api:7.0.41" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util:7.0.41" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.7.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
